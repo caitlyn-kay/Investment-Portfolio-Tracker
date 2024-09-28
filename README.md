@@ -1,4 +1,4 @@
-# Investment-Portfolio-Tracker
+# Investment Portfolio Tracker
 
 This repository contains an investment portfolio tracker program that provides real-time stock information obtained from Yahoo Finance. The program is designed to automate the process of tracking investments using only transaction logs. Users no longer need to manually calculate their average price or track portfolio performance. By simply providing raw transaction history data, the program automatically calculates key metrics such as average purchase price, current holdings, realized gains, and overall returns.
 
