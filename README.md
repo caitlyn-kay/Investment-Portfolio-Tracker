@@ -34,8 +34,8 @@ $ pip install yfinance --upgrade --no-cache-dir
 
 To run the portfolio tracker, follow these steps:
 
-1. Install [TransactionHistory.xlsx](TransactionHistory.xlsx) and edit the transaction logs according to your investments (**DO NOT** change the header row or delete any columns).
-2. Edit the file directory of the Excel file in the first line of the 2nd cell of the notebook.
+1. Download the [Transaction History](TransactionHistory.xlsx) Excel file and edit the transaction logs according to your investments (**DO NOT** change the header row or delete any columns).
+2. Download the [Portfolio Tracker](PortfolioTracker.ipynb) and edit the Excel file directory in the first line of the 2nd cell of the notebook.
 3. Execute all cells in the notebook in sequential order.
 
 ## License
